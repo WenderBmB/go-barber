@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "wbrunobarroso@gmail.com",
+      "name": "Bruno",
+      "password": "123456",
+      "token": "1"
+    },
+    {
+      "id": "2",
+      "email": "joyce@gmail.com",
+      "name": "Joyce",
+      "password": "123456",
+      "token": "2"
+    },
+    {
+      "email": "wbrunobarroso@gmail.com",
+      "password": "asdsadsa",
+      "id": "0zfJvBQ"
+    },
+    {
+      "email": "wbrunobarroso@gmail.com",
+      "password": "asdsadsa",
+      "id": "Hxs7meT"
+    }
+  ]
+}
